@@ -21,7 +21,7 @@ The INPUT files for the code include:
                     a) ATTO647N.csv
 
                     b) Cy3b.csv
-For the code provided named ""
+For the code provided named "Image anlignment_quanitification code.py"
 
 The input file names are available under
 
